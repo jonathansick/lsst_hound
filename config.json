@@ -1,0 +1,20 @@
+{
+    "dbpath" : "data",
+    "repos" : {
+        "qserv" : {
+            "url" : "https://github.com/LSST/qserv.git"
+        },
+        "meas_base" : {
+            "url" : "https://github.com/LSST/meas_base.git"
+        },
+        "afw": {
+            "url": "https://github.com/LSST/afw.git"
+        },
+        "meas_astrom": {
+            "url": "https://github.com/LSST/meas_astrom.git"
+        },
+        "pipe_tasks": {
+            "url": "https://github.com/LSST/pipe_tasks.git"
+        }
+    }
+}
