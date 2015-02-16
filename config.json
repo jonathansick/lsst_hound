@@ -2,19 +2,19 @@
     "dbpath" : "data",
     "repos" : {
         "qserv" : {
-            "url" : "https://github.com/LSST/qserv.git"
+            "url" : "https://github.com/lsst/qserv.git"
         },
         "meas_base" : {
-            "url" : "https://github.com/LSST/meas_base.git"
+            "url" : "https://github.com/lsst/meas_base.git"
         },
         "afw": {
-            "url": "https://github.com/LSST/afw.git"
+            "url": "https://github.com/lsst/afw.git"
         },
         "meas_astrom": {
-            "url": "https://github.com/LSST/meas_astrom.git"
+            "url": "https://github.com/lsst/meas_astrom.git"
         },
         "pipe_tasks": {
-            "url": "https://github.com/LSST/pipe_tasks.git"
+            "url": "https://github.com/lsst/pipe_tasks.git"
         }
     }
 }
